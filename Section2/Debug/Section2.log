@@ -1,0 +1,5 @@
+﻿  Section2.cpp
+c:\users\adrian\source\repos\ben\section2\section2\section2.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\adrian\source\repos\ben\section2\section2\section2.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\adrian\source\repos\ben\section2\section2\section2.cpp(95): warning C4715: 'getStudentByID': not all control paths return a value
+  Section2.vcxproj -> C:\Users\Adrian\source\repos\Ben\Section2\Debug\Section2.exe
